@@ -1,0 +1,50 @@
+{
+   "Workouts":[
+      {
+         "Type":"Push",
+         "Main":[
+            "Barbell Bench Press",
+            "Barbell military press",
+            "Barbell Incline press"
+         ],
+         "Accessory":[
+            "Dumbell Lateral Raises",
+            "Machine Chest Press",
+            "Machine Incline press",
+            "Cable Chest Fly"
+         ]
+      },
+      {
+         "Type":"Pull",
+         "Main":[
+            "Barbell Deadlift",
+            "Barbell Row",
+            "Pull ups",
+            "Chest supported row",
+            "T bar Row"
+         ],
+         "Accessory":[
+            "face pulls",
+            "rack pulls",
+            "dumbell row",
+            "incline row",
+            "chin ups"
+         ]
+      },
+      {
+         "Type":"Leg",
+         "Main":[
+            "Barbell squat",
+            "hack squat",
+            "leg press"
+         ],
+         "Accessory":[
+            "leg extension",
+            "hamstring curl",
+            "calf raise",
+            "hip thrust"
+         ]
+      }
+   ],
+   "Status":"OK"
+}
