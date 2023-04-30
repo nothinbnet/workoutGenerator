@@ -1,0 +1,15 @@
+{
+        "push": {"main":["Barbell Bench Press", "Barbell military press", "Barbell Incline press"],
+            "accessory": ["Dumbell Lateral Raises", "Machine Chest Press", "Machine Incline press", "Cable Chest Fly"]
+        }
+        
+        "pull": {"main":["Barbell Deadlift", "Barbell Row", "Pull ups", "Chest supported row", "T bar Row"],
+            "accessory": ["face pulls", "rack pulls", "dumbell row", "incline row", "chin ups"]
+        }
+        "legs":{"main":["Barbell squat","hack squat","leg press"],
+            "accessory": ["leg extension","hamstring curl","calf raise", "hip thrust"]
+            
+        }
+        "motivation":["I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life as a champion.” – Muhammad Ali", "The body achieves what the mind believes.” – Napoleon Hill", "“I’ve failed over and over again in my life and that is why I succeed.” – Michael Jordan", "The secret of getting ahead is getting started.” — Mark Twain","If you don’t find the time, if you don’t do the work, you don’t get the results.” – Arnold Schwarzenegger"]
+        "split":{"sets":["5 sets", "4 sets", " 3 sets", "6 sets", "7 sets", "8 sets", "9 sets", "10 sets"],"reps":["3 reps", "4 reps" ,"5 reps", "6 reps", "7 reps", "8 reps", "9 reps", "10 reps", "11 reps", "12 reps", "13 reps", "14 reps", "15 reps"]}
+    }
